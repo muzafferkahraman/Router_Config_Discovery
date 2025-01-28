@@ -1,7 +1,6 @@
 import copy
 from ncclient import manager
 import xmltodict
-from dataclasses import dataclass
 import json
 import pandas as pd
 from cards_library import *
